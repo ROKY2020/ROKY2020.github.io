@@ -16,4 +16,8 @@ Thats the reason why he could identifie himself with once upon in america
 > loser loves that you wait on them
 > thats the only possbility to feel important
 
+kein Bild vorhanden
+
+<img src="https://th.bing.com/th/id/OIP.dfONuAsK9U413-lXLGAFywHaE7?pid=Api&rs=1"/>
+
 
