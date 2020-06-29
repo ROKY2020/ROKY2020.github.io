@@ -2,7 +2,8 @@
 
 ###### A old man from Once upon in america
 
-Robert De Niro was born in Manhatten in 1943. Thats the reason why he could identifie himself with once upon in america
+Robert De Niro was born in Manhatten in 1943.
+Thats the reason why he could identifie himself with once upon in america
 
 ## Features
 
@@ -14,3 +15,5 @@ Robert De Niro was born in Manhatten in 1943. Thats the reason why he could iden
 
 > loser loves that you wait on them
 > thats the only possbility to feel important
+
+
